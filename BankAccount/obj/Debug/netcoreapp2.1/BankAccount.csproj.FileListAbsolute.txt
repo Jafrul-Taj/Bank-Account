@@ -1,0 +1,14 @@
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.deps.json
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.json
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.dev.json
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfo.cs
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp2.1\Utility.cs.dll
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp2.1\Utility.cs.pdb
+C:\Users\Jafrul Hasan Taj\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csproj.CopyComplete
